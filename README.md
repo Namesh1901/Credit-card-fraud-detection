@@ -9,9 +9,6 @@
 
 This project implements an advanced fraud detection system for credit card applications using unsupervised and supervised learning techniques. The system first uses Self-Organizing Maps (SOM) for anomaly detection, followed by an Artificial Neural Network (ANN) to predict potential fraudulent applications.
 
-<div align="center">
-  <img src="https://github.com/yourusername/credit-card-fraud-detection/raw/main/images/fraud_detection_workflow.png" alt="Fraud Detection Workflow" width="70%">
-</div>
 
 ## 🔍 Features
 
