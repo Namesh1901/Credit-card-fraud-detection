@@ -123,9 +123,7 @@ The model successfully identifies potential fraudulent applications with high ac
 | ANN Accuracy | ~95% on training data |
 | False Positives | < 5% |
 
-<div align="center">
-  <img src="https://github.com/yourusername/credit-card-fraud-detection/raw/main/images/fraud_probabilities.png" alt="Fraud Probabilities" width="60%">
-</div>
+
 
 ## 🚀 How to Run
 
@@ -163,17 +161,7 @@ credit-card-fraud-detection/
 └── requirements.txt
 ```
 
-## 📊 Interactive Results Viewer
 
-You can view detailed predictions using our interactive dashboard by running:
-
-```bash
-python interactive_dashboard.py
-```
-
-<div align="center">
-  <img src="https://github.com/yourusername/credit-card-fraud-detection/raw/main/images/interactive_dashboard.png" alt="Interactive Dashboard" width="70%">
-</div>
 
 ## 🧩 Future Improvements
 
